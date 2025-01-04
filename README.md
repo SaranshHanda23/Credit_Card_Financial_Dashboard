@@ -1,10 +1,14 @@
 # Credit_Card_Financial_Dashboard
 
-LinkedIn Post Draft
 🚀 Project Highlight: Weekly Credit Card Dashboard on Power BI 🎯
 
+
+
 🔍 Objective:
+
 Developed a dynamic credit card weekly dashboard to provide actionable insights into performance metrics, trends, and revenue analysis. The project empowers stakeholders to monitor credit card operations efficiently and make data-driven decisions.
+
+
 
 🔧 Tools & Technologies Used:
 
@@ -12,6 +16,8 @@ Power BI Desktop: For dashboard creation and visualizations
 DAX Queries: To create filters and advanced metrics
 MySQL Workbench: For database integration
 Excel: Data preprocessing and date column adjustments
+
+
 🌟 Key Outcomes:
 
 Revenue Insights: Identified a 28.8% week-over-week revenue increase.
@@ -24,6 +30,8 @@ Activation & Delinquency Rates: 57.5% activation, 6.06% delinquency rate.
 2️⃣ Explored Power BI and MySQL integration, bridging database operations and visualization.
 3️⃣ Gained insights into customer demographics and revenue trends.
 4️⃣ Enhanced problem-solving skills by addressing import and column-mapping errors effectively.
+
+
 
 🌐 Check it out: Interactive Dashboard
 
