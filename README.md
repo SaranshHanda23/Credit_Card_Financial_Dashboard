@@ -25,11 +25,17 @@ Customer Behavior: Analyzed transaction patterns—male customers contributed 31
 Product Performance: Blue and Silver cards dominated with 93% of transactions.
 State Trends: TX, NY, and CA contributed to 68% of overall revenue.
 Activation & Delinquency Rates: 57.5% activation, 6.06% delinquency rate.
+
 🎓 Learnings:
+
 1️⃣ Mastered DAX functions for advanced filtering and grouping.
+
 2️⃣ Explored Power BI and MySQL integration, bridging database operations and visualization.
+
 3️⃣ Gained insights into customer demographics and revenue trends.
+
 4️⃣ Enhanced problem-solving skills by addressing import and column-mapping errors effectively.
+
 
 
 
